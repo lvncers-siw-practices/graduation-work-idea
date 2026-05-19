@@ -76,7 +76,7 @@ https://www.gamedeveloperstudio.com/index.php
 
 - 伐採場
 
- https://escapefromtarkov.fandom.com/wiki/Woods?file=Woods_Showcase_24.png
+![](https://escapefromtarkov.fandom.com/wiki/Woods?file=Woods_Showcase_24.png)
 
 医療キャンプ
 
@@ -88,6 +88,8 @@ https://www.gamedeveloperstudio.com/index.php
 
 - 旧村
 - 墜落飛行機付近
+
+![](https://escapefromtarkov.fandom.com/wiki/Woods?file=Woods_Showcase_12.png)
 
 - scp containment breach
 
