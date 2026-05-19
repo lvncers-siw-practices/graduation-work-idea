@@ -84,18 +84,18 @@ SCAV BUNKER
 
 ## 異常の種類
 
+自分で真新しいような異常を追加しても良い
+
 - extra object
 - object disapearance
 - object movement
 - door opening/closing
-
 - abyss
 - camera malfunction
 - distortion
 - light anomaly
 - picture anomaly
 - footage anomaly
-
 - Intruder (Jump Scare!!!!)
 - Other
 
