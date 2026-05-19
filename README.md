@@ -4,9 +4,10 @@ INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
 
 ガッツリゲーム作り始めた（AIを使えばロジックは簡単に作れる。問題はアセット）
 
-エンジンはgodot、itch.ioで公開
+## プラットフォーム
 
-桜井政博のyoutubeを見た
+- エンジン: godot
+- 公開: itch.io
 
 ## ゲームコンセプト
 
@@ -24,10 +25,6 @@ INDIE GAMES SUMMIT とかのイベントとかも調べてみたい
 - 少なくとも一ヶ月でアルファ
 - 二ヶ月でベータ（ユーザーレビューがほしい）
 - 三カ月でsteam公開
-
-steam公開までの道
-
-https://youtu.be/1DMtuPgHD88?si=78xEUxjpEF3CWrsB
 
 ## メリット
 
@@ -110,6 +107,15 @@ USECキャンプ
 - 8番出口
 - その他リスペクト系インディーゲーム
 - ２d感はUNDERTALEとかを
+
+## 参考動画
+
+- 桜井政博
+- ゲームさんぽ
+- 【UNDERTALE開発秘話】ゲームの歴史を変えたのは たった一人の“無名の天才”だった【ゆっくり解説＆ずんだもん: https://www.youtube.com/watch?v=HmS3JuKgKr8
+- 【収益公開】８番出口(偽)で稼いだらゆうちょ銀行に入金止められた話【ライク作品】: https://youtu.be/1DMtuPgHD88?si=78xEUxjpEF3CWrsB
+
+## 参考サイト
 
 https://www.geishatokyo.com/
 
