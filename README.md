@@ -115,6 +115,8 @@ USECキャンプ
 - 【UNDERTALE開発秘話】ゲームの歴史を変えたのは たった一人の“無名の天才”だった【ゆっくり解説＆ずんだもん: https://www.youtube.com/watch?v=HmS3JuKgKr8
 - 【収益公開】８番出口(偽)で稼いだらゆうちょ銀行に入金止められた話【ライク作品】: https://youtu.be/1DMtuPgHD88?si=78xEUxjpEF3CWrsB
 
+- 大作ゲームも最初は似たような感じ。ゲームの衰退も参考になる。
+
 ## 参考サイト
 
 https://www.geishatokyo.com/
