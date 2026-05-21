@@ -33,14 +33,14 @@
 
 ## 使えそうなアセット
 
-無料のもので
+なるべく無料のもので。
+まず必要なアセット（飛行機とか銃とか車とか）
 
 - kenney roguelikeシリーズ
   - https://kenney.nl/assets/micro-roguelike
   - https://kenney.nl/assets/roguelike-modern-city
   - https://kenney.nl/assets/roguelike-indoors
   - https://kenney.nl/assets/roguelike-caves-dungeons
-
 - https://poly.pizza/
 - https://opengameart.org/
 - https://soundimage.org/
@@ -57,6 +57,8 @@
 ## ステージ
 
 ### tarkov woods
+
+銃声が定期的に聞こえてくる
 
 <img src="https://tarkov-hiyoko.com/wp-content/uploads/2022/01/s-Woods_map_v0.12.9b.jpg" width="300">
 
@@ -116,7 +118,6 @@ Youtuberに取り上げられる、トレンドゲームで（カメラ監視と
 - ゲームさんぽ
 - 【UNDERTALE開発秘話】ゲームの歴史を変えたのは たった一人の“無名の天才”だった【ゆっくり解説＆ずんだもん: https://www.youtube.com/watch?v=HmS3JuKgKr8
 - 【収益公開】８番出口(偽)で稼いだらゆうちょ銀行に入金止められた話【ライク作品】: https://youtu.be/1DMtuPgHD88?si=78xEUxjpEF3CWrsB
-
 - 大企業の大作ゲーム（FF、妖怪ウォッチ、）も最初は似たような感じ。ゲームの衰退も参考になる。
 
 ## 参考サイト
@@ -138,7 +139,7 @@ https://www.geishatokyo.com/
 - 卒業制作ではSteamゴール
 - 短期間で売れるゲーム
 
-要素
+### 要素
 
 - お金稼げる（今までの技術挑戦とかじゃなくて、サブスク）
 - 習慣に入り込める、コアだけど対象は広がる可能性を秘めてる
@@ -154,7 +155,7 @@ https://www.geishatokyo.com/
 - Webゲーム
 - 人と人が繋がる × アクションでちょっとハード × 歪み（ダークファンタジー）
 
-Chattyと話してて出たアイデアピックアップ
+### Chattyと話してて出たアイデアピックアップ
 
 - 誰かと仲良くなるほど、その人の「不幸」を引き受けるゲーム
 - フレンドが増えるほど、自分の操作が不自由になる
@@ -164,7 +165,6 @@ Chattyと話してて出たアイデアピックアップ
 - 他プレイヤーに自分の記憶を売って進むゲーム
 - 他人の記憶の中でしか存在できない
 - AIが敵になって強力して倒すゲームでもいいかも
-
 - 現実世界で近いゲーム
   - Ultimate Chicken Horse
   - Slay the Spire
